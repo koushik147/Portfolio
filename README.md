@@ -24,7 +24,7 @@ A modern, responsive personal portfolio website built with React.js to showcase 
 
 ## 🚀 Live Demo
 
-Visit my portfolio: [https://github.com/koushik147](https://github.com/koushik147)
+Visit my portfolio: [https://koushik-portfolio-site.netlify.app/](https://koushik-portfolio-site.netlify.app/)
 
 ## 👨‍💻 About Me
 
