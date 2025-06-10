@@ -155,8 +155,8 @@ const workExperiences = {
   experience: [
     {
       role: "AI Software Engineer",
-      company: "Highbrow Technologies Inc",
-      companylogo: require("./assets/images/Highbrow_logo.png"),
+      company: "Turing",
+      companylogo: require("./assets/images/Turing_logo.png"),
       date: "April 2024 – Present",
       descBullets: [
         "Accelerated the development of a monitoring and evaluation software tool for the Data Analytics model, enabling real-time tracking of critical metrics such as loss, accuracy, training time, and resource usage, aligning with ERP practices",
