@@ -196,7 +196,7 @@ const workExperiences = {
   ]
 };
 
-// Open Source Section
+// Academic Section
 
 const openSource = {
   showGithubProfile: "true", 
