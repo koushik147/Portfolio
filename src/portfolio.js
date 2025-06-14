@@ -28,7 +28,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://www.github.com/koushik147",
-  linkedin: "https://www.linkedin.com/in/koushik-anitha-raja/",
+  linkedin: "https://www.linkedin.com/in/koushik-ar/",
   gmail: "koushikanitharaja@gmail.com",
   display: true
 };
