@@ -31,6 +31,6 @@ Visit my portfolio: [https://koushik-portfolio-site.netlify.app/](https://koushi
 I'm Koushik, a passionate developer focused on creating amazing web experiences. This portfolio represents my journey, skills, and the projects I'm most proud of.
 
 **Connect with me:**
-- LinkedIn: [https://www.linkedin.com/in/koushik-anitha-raja/]
+- LinkedIn: [https://www.linkedin.com/in/koushik-ar/]
 - GitHub: [@koushik147](https://github.com/koushik147)
 - Email: [koushikanitharaja@gmail.com]
